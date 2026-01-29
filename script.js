@@ -38,7 +38,7 @@ const STRINGS = [
   "加油 (ง •_•)ง",
   "dont forget to rest (晚安)",
   "dont forget to rest (晚安)",
-  "tomorrow is a new day !! (晚安)",
+  "tomorrow is a new day !! (早安)",
   "tomorrow is a new day (早安)",
   "u super got this :))",
   "u super got this :))",
@@ -179,4 +179,5 @@ button.addEventListener("keydown", (e) => {
     button.click();
   }
 });
+
 
